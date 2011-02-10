@@ -27,7 +27,7 @@
   <property name="stylesheetfile" value="" />
   <property name="lib.dir" value="${basedir}/lib" />
   <property name="tools.dir" value="${basedir}/tools" />
-  <property name="jarfile" value="${build.dir}/${ant.project.name}.jar" />
+  <property name="jarfile" value="${build.dir}/granule-closure-compiler.jdk15.jar" />
   <property name="num-fuzz-tests" value="10000"/>
   <property name="test" value="*Test"/>
   <property name="version" value="HEAD"/>
